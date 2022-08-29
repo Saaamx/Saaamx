@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "325px" align = "right">
+<img src = "banner.gif" width = "325px" align = "right">
 # Oie, tudo bem?
 
 <div>
