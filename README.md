@@ -1,4 +1,4 @@
-<img src giphy.gif width = "500px" align = "left">
+<img src giphy.gif width = "325px" align = "left">
 # Oie, tudo bem?
 <a href = "https://www.linkedin.com/in/samuel-felipe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
