@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src giphy.gif width = "500px" align = "left">
+# Oie, tudo bem?
+<a href = "https://www.linkedin.com/in/samuel-felipe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+Sou estudante de Ciencias da computação e estou começando pra valer minha carreira de programador
 
-<!--
-**Saaamx/Saaamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Aprendendo de tudo (Front-end, Back-end, banco de dados)📚
+-Estudando ciencias da computação🖥️
+-Adoro jogar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id=linguagens>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
